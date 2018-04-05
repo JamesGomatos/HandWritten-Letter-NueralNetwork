@@ -1,4 +1,4 @@
-# LanguageNeuralNetwork2
+# Handwritten Letter Neural Netwrok
 
 A machine learning case study that implements a simple neural network that recognizes handwritten numbers.
 
